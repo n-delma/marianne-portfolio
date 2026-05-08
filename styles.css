@@ -181,7 +181,7 @@ em { font-family: var(--serif-italic); font-style: italic; font-weight: 400; }
 .dot {
     width: 8px; height: 8px;
     border-radius: 50%;
-    background: var(--lime-deep);
+    background-color: #FA003F;
     box-shadow: 0 0 0 4px rgba(199, 244, 74, 0.3);
     animation: pulse 2.5s ease-in-out infinite;
 }
@@ -193,7 +193,7 @@ em { font-family: var(--serif-italic); font-style: italic; font-weight: 400; }
 
 
 .hero-title .accent {
-    background: var(--lime);
+    background-color: #FA003F;
     color: var(--ink);
     padding: 0 0.15em;
     font-style: normal;
